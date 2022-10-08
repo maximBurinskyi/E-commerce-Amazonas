@@ -60,7 +60,7 @@ function Checkout() {
                   'from-gray-300 to-gray-500 border-gray-200 text-gray-300 cursor-not-allowed'
                 }`}
               >
-                {!session ? 'Sign in to checkout' : 'Proceed to checkout'}
+                {!session ? 'Sign in to checkout' : 'Proceed to your checkout'}
               </button>
             </>
           )}
